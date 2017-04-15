@@ -1,22 +1,23 @@
-# head
-menu:
-  カタログ/（目录）: /archives
-  # sitemap: /sitemap.xml
-  # other menus
+# Config
+# menu:
+#   Me: /me
+#   Blog: /blog
+#   # sitemap: /sitemap.xml
+#   # other menus
 
-rss: /atom.xml
-favicon: /favicon.png
+# rss: /atom.xml
+# favicon: /favicon.png
 
-date_format: 'MMMM D, YYYY'
+# date_format: 'MMMM D, YYYY'
 
-google_verification: false  # your token
-google_analytics: false     # your id
+# google_verification: false  # your token
+# google_analytics: false     # your id
 
-disqus_shortname: false     # your disqus name
+# disqus_shortname: false     # your disqus name
 
-live2d: false    # true
-hjid: false      # your hjid (hotjar)
+# live2d: false    # true
+# hjid: false      # your hjid (hotjar)
 
-start_year: 2016
+# start_year: 2017
 
-reward_image: /img/wechat.png
+# reward_image: /img/wechat.png
